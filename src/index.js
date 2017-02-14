@@ -6,6 +6,7 @@ exports.all = function () {
     return data;
 }
 exports.find = function (location) {
+    location = location.charAt(0).toUpperCase() + location.slice(1);
     let areaDetails = _.find(data,{"location":location});
     return areaDetails.code;
 }
