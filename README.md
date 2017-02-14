@@ -3,7 +3,7 @@ Get Nation Wide Dialing (NWD) Codes in Bangladesh
 
 ## Installation
 ```
-npm install --save bangladesh-telephone-areacode
+npm install --save bangladesh-areacode
 ```
 ##Functions
 ```
