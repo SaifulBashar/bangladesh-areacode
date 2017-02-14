@@ -1,5 +1,5 @@
-
-Get all telephone area code of bangaldesh
+#Bangladesh-areacode
+Get Nation Wide Dialing (NWD) Codes in Bangladesh
 
 ## Installation
 ```
