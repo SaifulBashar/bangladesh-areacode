@@ -1,6 +1,6 @@
 {
   "name": "bangladesh-areacode",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Get Nation Wide Dialing (NWD) Codes in Bangladesh",
   "main": "src/index.js",
   "scripts": {
@@ -8,18 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saiful619945/bangladesh-telephone-areacode.git"
+    "url": "git+https://github.com/saiful619945/bangladesh-areacode.git"
   },
   "keywords": [
     "all",
-    "find"
+    "find",
+    "areaCode"
   ],
   "author": "Saiful <robal.bashar59@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saiful619945/bangladesh-telephone-areacode/issues"
+    "url": "https://github.com/saiful619945/bangladesh-areacode/issues"
   },
-  "homepage": "https://github.com/saiful619945/bangladesh-telephone-areacode#readme",
+  "homepage": "https://github.com/saiful619945/bangladesh-areacode#readme",
   "dependencies": {
     "lodash": "4.17.4"
   }
