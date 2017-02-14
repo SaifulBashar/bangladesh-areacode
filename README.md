@@ -5,7 +5,14 @@ Get Nation Wide Dialing (NWD) Codes in Bangladesh
 ```
 npm install --save bangladesh-telephone-areacode
 ```
+###Function
+```
+all() // return json
 
+find(parameter) //return area code of give location in parameter
+
+areaCode(parameter) //return location array
+```
 ## Examples
 
 ```js
@@ -52,11 +59,16 @@ console.log(data.find( 'Biani Bazar'))
 8223
 
 ```
+```js
+let area =g.areaCode(9424);
+console.log(area);
 
-
-
+//output array
+[ 'Bhairab', 'Bhoirab Bazar' ]
 
 ## Contributing
+
+Feel free to fix, update or add new entry anytime.
 
 
 
