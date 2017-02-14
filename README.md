@@ -65,6 +65,7 @@ console.log(area);
 
 //output array
 [ 'Bhairab', 'Bhoirab Bazar' ]
+```
 
 ## Contributing
 
